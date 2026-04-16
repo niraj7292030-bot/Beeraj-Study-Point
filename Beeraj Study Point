@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Beeraj Study Point</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      background: #f4f4f4;
+    }
+
+    header {
+      background: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    nav {
+      background: #1565c0;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .section {
+      padding: 20px;
+    }
+
+    .card {
+      background: white;
+      padding: 15px;
+      margin: 10px;
+      border-radius: 8px;
+      display: inline-block;
+      width: 250px;
+      text-align: center;
+      cursor: pointer;
+    }
+
+    .card:hover {
+      background: #e3f2fd;
+    }
+
+    footer {
+      background: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  Beeraj Study Point
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#class12">Class 12</a>
+  <a href="#ba">B.A Courses</a>
+  <a href="#">Notes</a>
+  <a href="#">MCQs</a>
+</nav>
+
+<!-- CLASS 12 -->
+<div class="section" id="class12">
+  <h2>Class 12 Notes</h2>
+
+  <div class="card">History</div>
+  <div class="card">Political Science</div>
+  <div class="card">Geography</div>
+</div>
+
+<!-- BA COURSES -->
+<div class="section" id="ba">
+  <h2>B.A Programme & Honors</h2>
+
+  <div class="card" onclick="openSemester(1)">Semester 1</div>
+  <div class="card" onclick="openSemester(2)">Semester 2</div>
+  <div class="card" onclick="openSemester(3)">Semester 3</div>
+  <div class="card" onclick="openSemester(4)">Semester 4</div>
+  <div class="card" onclick="openSemester(5)">Semester 5</div>
+  <div class="card" onclick="openSemester(6)">Semester 6</div>
+</div>
+
+<footer>
+  © Beeraj Study Point | All Rights Reserved
+</footer>
+
+<script>
+function openSemester(sem) {
+  window.location.href = "semester" + sem + ".html";
+}
+</script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Semester 1</title>
+
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background: #f4f4f4;
+    }
+
+    h1 {
+      background: #0d47a1;
+      color: white;
+      padding: 15px;
+    }
+
+    .option {
+      background: white;
+      padding: 20px;
+      margin: 20px auto;
+      width: 300px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .option:hover {
+      background: #e3f2fd;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Semester 1 Notes</h1>
+
+<div class="option">📘 Hindi Medium Notes</div>
+<div class="option">📗 English Medium Notes</div>
+
+</body>
+</html>
+
+ADD YOUR SOCIAL LINKS
+WhatsApp
+https://whatsapp.com/channel/0029Vb5Eo3m7T8bRYa0Gce2x
+
+Telegram
+https://t.me/beerajstudypoint2005
+
+
+*Class 12th History Download PDF Notes*
+भारतीय इतिहास के कुछ विषय भाग - 1 PDF Notes - 
+https://superprofile.bio/vp/class-12-history-book-1-ch-1--2--3--4-notes-and-important-question-answer
+भारतीय इतिहास के कुछ विषय भाग - 2 PDF Notes - 
+https://superprofile.bio/vp/class-12-history-book---2-chapter-5---7-notes-and-important-question-answer
+भारतीय इतिहास के कुछ विषय भाग - 3 PDF Notes - 
+https://superprofile.bio/vp/class-12-history-book--3-ch--10--11--12-notes-and-important-question-answer
+
+*Class 12th Political Science Download PDF Notes*
+समकालीन विश्व राजनीती  PDF Notes - 
+https://superprofile.bio/vp/class-12-political-science-book--1-समकालीन-विश्व-राजनीती-best-notes
+स्वतंत्र भारत में राजनीती PDF Notes - 
+https://superprofile.bio/vp/class-12-political-science-book--1-स्वतंत्र-भारत-में-राजनीती-best-notes
+
+1st Semester notes
+ 
+*📄History Of India From Earliest Times Up To 300
+CE 👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-program-semester---1st-भारत-का-इतिहास-प्रारंभ-से-300-ce-तक-best-notes
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-prog--sem---1st-history-of-india-from-earliest-times-up-to-300-ce-notes
+ 
+*📄 English Fluency – I👉* 
+https://superprofile.bio/vp/english-fluency---1--b-a-program---hons---semester-1st-and-2nd-best-notes
+ 
+📄
+Sanskrit : Yoga Philosophy and Practice 👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/yoga-philosophy-and-practice-most-important-questions-with-answers-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/yoga-philosophy-and-practice-most-important-questions---answers-in-english
+ 
+*📄 हिंदी 'क' : भाषा और साहित्य 👉*  
+https://superprofile.bio/vp/b-a-program-semester---1st---2nd-हिंदी--क----भाषा-और-साहित्य-best-notes
+ 
+हिंदी भाषा संप्रेक्षण और संचार 
+https://superprofile.bio/vp/हिंदी-भाषा-संप्रेक्षण-और-संचार-b-a---b-com-prog--hons-sem---1-2-best-notes
+ 
+Commerce : Finance For Everyone 
+➤ Notes in HINDI
+– https://superprofile.bio/vp/commerce--finance-for-everyone-b-a---b-com-1st-semester-du-notes-in-english
+➤ Notes in ENGLISH
+- https://superprofile.bio/vp/commerce---finance-for-everyone-b-a---b-com-1st-semester-du-notes-in-hindi
+ 
+सोशल
+मीडिया और ब्लॉग लेखन हिंदी ग 
+https://superprofile.bio/vp/all-courses-1st---2nd-semester-सोशल-मीडिया-और-ब्लॉग-लेखन-hindi-c-best-notes
+ 
+Introduction to the political theory 
+➤ Notes in HINDI
+– https://superprofile.bio/vp/introduction-to-the-political-theory-b-a-prog----hons--sem---1-2-best-notes
+➤ Notes in ENGLISH
+- https://superprofile.bio/vp/introduction-to-the-political-theory-semester---1-2-best-notes-in-english
+ 
+*📄 Constitutional Values & Fundamental Duties
+(संवैधानिक मूल्य और 
+मौलिक
+कर्तव्य)👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester---संवैधानिक-मूल्य-और-मौलिक-कर्तव्य-notes
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester-constitutional-values---fundamental-duties
+ 
+ 
+Ancient Society प्राचीन समाज 
+➤ Notes in HINDI
+– https://superprofile.bio/vp/b-a-program-sem--1st-history-ancient-societies-प्राचीन-समाज-notes-in-hindi
+➤ Notes in ENGLISH
+- https://superprofile.bio/vp/b-a-program-semester---1st-history-ancient-societies-notes-in-english
+ 
+*📄 Public Administration in India (भारत मे लोक प्रशासन) 👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-prog---hons--1st-2nd-semester---public-administration-in-india-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-prog---hons--1st-2nd-semester-public-administration-in-india-in-english
+ 
+भारतीय भक्ति परम्परा और मानव मूल्य
+Notes - https://superprofile.bio/vp/all-ug-course-1st-2nd-semester-भारतीय-भक्ति-परम्परा-और-मानव-मूल्य-notes
+ 
+*📄  Environmental Science Theory into
+Practice – I👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-sem---1-2nd-environmental-science-theory-into-practice-1-notes-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-sem---1-2-environmental-science-theory-into-practice-1-notes-in-english
+ 
+ 
+ 
+ 
+2nd semester Notes 
+ 
+*📄 English Fluency – I👉* 
+https://superprofile.bio/vp/english-fluency---1--b-a-program---hons---semester-1st-and-2nd-best-notes
+ 
+📄
+Sanskrit : Yoga Philosophy and Practice 👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/yoga-philosophy-and-practice-most-important-questions-with-answers-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/yoga-philosophy-and-practice-most-important-questions---answers-in-english
+ 
+*📄 हिंदी 'क' : भाषा और साहित्य 👉*  
+https://superprofile.bio/vp/b-a-program-semester---1st---2nd-हिंदी--क----भाषा-और-साहित्य-best-notes
+ 
+हिंदी भाषा संप्रेक्षण और संचार 
+https://superprofile.bio/vp/हिंदी-भाषा-संप्रेक्षण-और-संचार-b-a---b-com-prog--hons-sem---1-2-best-notes
+ 
+सोशल
+मीडिया और ब्लॉग लेखन हिंदी ग 
+https://superprofile.bio/vp/all-courses-1st---2nd-semester-सोशल-मीडिया-और-ब्लॉग-लेखन-hindi-c-best-notes
+ 
+ 
+*📄 Constitutional Values & Fundamental Duties
+(संवैधानिक मूल्य और 
+मौलिक
+कर्तव्य)👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester---संवैधानिक-मूल्य-और-मौलिक-कर्तव्य-notes
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester-constitutional-values---fundamental-duties
+ 
+ 
+*📄  Environmental Science Theory into
+Practice – I👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-sem---1-2nd-environmental-science-theory-into-practice-1-notes-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-sem---1-2-environmental-science-theory-into-practice-1-notes-in-english
+ 
+3RD semester 
+ 
+*📄 Political Science: Indian Govt. and Politics (भारतीय शासन एवं राजनीति)👉*
+*➤ Notes in HINDI -* 
+https://superprofile.bio/vp/b-a-semester--2-political-science--indian-govt--and-politics-notes-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-semester--2nd-pol--science---indian-govt--and-politics-notes-in-english
+ 
+*📄 History of India 300 - 1200 👉*
+*➤ Notes in HINDI -* 
+https://superprofile.bio/vp/b-a-program-2nd-semester-history-of-india-300---1200-notes-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-program-2nd-semester-history-of-india-300---1200-notes-in-english
+ 
+ 
+*📄India's Foreign Policy (भारत
+की विदेश नीति)👉*
+*➤ Notes in HINDI –* 
+https://superprofile.bio/vp/b-a-program---hons--1st-semester---भारत-की-विदेश-नीति-best-notes-in-hindi
+*➤ Notes in ENGLISH -* 
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester---india-s-foreign-policy-best-notes
+ 
+ 
+2nd semester Notes link 
+📄
+History of India 300 - 1200 
+➤ Notes
+in HINDI -
+https://superprofile.bio/vp/b-a-program-2nd-semester-history-of-india-300---1200-notes-in-hindi
+➤ Notes
+in ENGLISH -
+https://superprofile.bio/vp/b-a-program-2nd-semester-history-of-india-300---1200-notes-in-english
+ 
+📄
+Environmental Science Theory into Practice – i
+➤ Notes
+in HINDI –
+https://superprofile.bio/vp/b-a-sem---1-2nd-environmental-science-theory-into-practice-1-notes-in-hindi
+➤ Notes
+in ENGLISH -
+https://superprofile.bio/vp/b-a-sem---1-2-environmental-science-theory-into-practice-1-notes-in-english
+ 
+📄
+English Fluency – I (PDF NOTES) 
+https://superprofile.bio/vp/english-fluency---1--b-a-program---hons---semester-1st-and-2nd-best-notes
+ 
+📄
+Indian Govt. and Politics (भारतीय शासन एवं राजनीति)
+➤ Notes
+in HINDI :
+https://superprofile.bio/vp/b-a-semester--2-political-science--indian-govt--and-politics-notes-in-hindi
+➤ Notes
+in ENGLISH :
+https://superprofile.bio/vp/b-a-semester--2nd-pol--science---indian-govt--and-politics-notes-in-english
+ 
+ 
+4th semester notes 
+ 
+History Of India From Earliest Times Up To 300
+CE
+➤ Notes
+in HINDI – https://superprofile.bio/vp/b-a-program-semester---1st-भारत-का-इतिहास-प्रारंभ-से-300-ce-तक-best-notes
+➤ Notes
+in ENGLISH -
+https://superprofile.bio/vp/b-a-prog--sem---1st-history-of-india-from-earliest-times-up-to-300-ce-notes
+ 
+Constitutional Values & Fundamental Duties
+(संवैधानिक मूल्य और मौलिक कर्तव्य)
+➤ Notes
+in HINDI – https://superprofile.bio/vp/b-a-program---hons--2nd-semester---संवैधानिक-मूल्य-और-मौलिक-कर्तव्य-notes
+➤ Notes
+in ENGLISH -
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester-constitutional-values---fundamental-duties
+ 
+India's Foreign Policy (भारत
+की विदेश नीति)
+➤ Notes
+in HINDI – https://superprofile.bio/vp/b-a-program---hons--1st-semester---भारत-की-विदेश-नीति-best-notes-in-hindi
+➤ Notes
+in ENGLISH -
+https://superprofile.bio/vp/b-a-program---hons--2nd-semester---india-s-foreign-policy-best-notes
+ 
+*📄 English
+Fluency – II 👉*
+https://superprofile.bio/vp/du-sol-3rd---4th-semester-english---english-fluency---ii-best-notes
+ 
+*📄 हिंदी गद्य (क) :
+उद्भव और विकास 👉*
+*➤ Notes –* https://superprofile.bio/vp/b-a-program-semester---3rd---4th-हिंदी-गद्य--क----उद्भव-और-विकास-best-notes
+ 
+*📄 ENGLISH
+: BUSINESS COMMUNICATION 👉*
+*➤ Notes -*
+https://superprofile.bio/vp/b-a---3rd-semester-english---business-communication-notes
+ 
+*📄 Indian
+Govt. and Politics (भारतीय शासन एवं राजनीति)👉*
+*➤ Notes in HINDI :*
+https://superprofile.bio/vp/b-a-semester--2-political-science--indian-govt--and-politics-notes-in-hindi
+*➤ Notes in ENGLISH :*
+https://superprofile.bio/vp/b-a-semester--2nd-pol--science---indian-govt--and-politics-notes-in-english
+ 
+*📄
+Financial Literacy 👉*
+*➤  Notes in Hindi -*
+https://superprofile.bio/vp/financial-literacy-semester---1-2-3-4th-b-a-prog----hons--notes-in-hindi
+*➤  Notes in English
+-* https://superprofile.bio/vp/financial-literacy-semester---1-2-3-4th-b-a-prog----hons--notes-in-english
+ 
+*📄 History
+of India 1550-1700 (भारत का इतिहास 1550-1700)👉*
+*➤ Notes In HINDI -* https://superprofile.bio/vp/b-a-program-du-sol-semester---4-history-of-india-1550-1700-notes-in-hindi
+➤ Notes In English -
+https://superprofile.bio/vp/b-a-program-du-sol-semester---4-history-of-india-1550-1700-notes-in-english
+ 
+5th
+semester notes
+*📄
+Comparative Government and Politics (तुलनात्मक शासन एवं राजनीति) 👉*
+*➤ Notes In HINDI -*
+https://superprofile.bio/vp/b-a-program-du-sol-semester-4th--comparative-government---politics-in-hindi
+*➤ Notes In English -*
+https://superprofile.bio/vp/b-a-program-du-sol-semester--4-comparative-government---politics-in-english
+ 
+*📄 History
+of India 1200-1550 👉*
+*➤ Notes in HINDI -*
+https://superprofile.bio/vp/b-a-program-semester---3---history-of-india-1200-1550-notes-in-hindi
+*➤ Notes in ENGLISH -*
+https://superprofile.bio/vp/b-a-program-semester---3---history-of-india-1200-1550-notes-in-english
+ 
+*📄 Ancient
+and Medieval Indian Political Thought (प्राचीन और मध्यकालीन भारतीय राजनीतिक
+विचार)👉*
+*➤ Notes in HINDI :-* https://superprofile.bio/vp/b-a-sem--3rd---ancient-and-medieval-indian-political-thought-notes-in-hindi
+*➤ Notes in ENGLISH :-* https://superprofile.bio/vp/b-a-sem--3---ancient-and-medieval-indian-political-thought-notes-in-english
+ 
+*📄 Theory
+and Practice of Democracy*
+*➤ Notes in HINDI :-* https://superprofile.bio/vp/b-a-program-semester---3--theory-and-practice-of-democracy-notes-in-hindi
+*➤ Notes in ENGLISH :*
+https://superprofile.bio/vp/b-a-program-semester---3--theory-and-practice-of-democracy-notes-in-english
+ 
+*📄 Public
+Institutions In India  (भारत मे सार्वजनिक
+संस्थान) 👉*
+*➤ Notes In HINDI –* https://superprofile.bio/vp/b-a-program-du-sol-4th-semester-public-institutions-in-india-notes-in-hindi
+*➤ Notes In English -* https://superprofile.bio/vp/b-a-program-du-sol-semester-4-public-institutions-in-india-notes-in-english
+ 
+*📄
+Education in India Policy and Practice- 👉*
+*➤  Notes in Hindi -*
+https://superprofile.bio/vp/4th-semester-b-a-programe-education-in-india---policy-and-practice-in-hindi
+*➤  Notes in English
+-*
+https://superprofile.bio/vp/4th-semester-b-a-prog--education-in-india---policy-and-practice-in-english
+ 
+6th
+semester notes
+*📄
+Environmental Science Theory into Practice-2 👉*
+*➤ Notes in HINDI -*
+https://superprofile.bio/vp/b-a-sem---3-4-environmental-science-theory-into-practice-2-notes-in-hindi
+*➤ Notes in ENGLISH -*
+https://superprofile.bio/vp/b-a-sem---3-4-environmental-science-theory-into-practice-2-notes-in-english
+ 
+ 
+ 
+ 
+ 
+व्यावहारिक हिंदी 
+Notes - https://superprofile.bio/vp/hindi-a---व्यावहारिक-हिंदी-b-a-prog--hons-semester-4th-hindi-notes-
+ 
+📄 Cultural
+Transformations in Early Modern Europe-II (प्राचीन यूरोप मे सांस्कृतिक परिवर्तन)
+➤  Notes in Hindi - https://superprofile.bio/vp/history-sem-4th-प्राचीन-आधुनिक-यूरोप-में-सास्कृतिक-परिवर्तन---ii-best-notes
+➤  Notes in English - https://superprofile.bio/vp/history-sem---4th-cultural-transformations-in-early-modern-europe-ii-notes
+ 
+📄 Indian
+writing in English Translation 
+https://superprofile.bio/vp/b-a-prog--hons--sem--4th-english---indian-writing-in-english-translation
+ 
+📄 History of
+India 1550-1700 (भारत का इतिहास
+1550-1700)
+➤ Notes In HINDI
+- https://superprofile.bio/vp/b-a-program-du-sol-semester---4-history-of-india-1550-1700-notes-in-hindi
+➤ Notes In English
+- https://superprofile.bio/vp/b-a-program-du-sol-semester---4-history-of-india-1550-1700-notes-in-english
+ 
+📄 Comparative
+Government and Politics (तुलनात्मक शासन एवं
+राजनीति)
+➤ Notes In HINDI
+- https://superprofile.bio/vp/b-a-program-du-sol-semester-4th--comparative-government---politics-in-hindi
+➤ Notes In English
+- https://superprofile.bio/vp/b-a-program-du-sol-semester--4-comparative-government---politics-in-english
+ 
+📄 Public
+Institutions In India  (भारत मे सार्वजनिक संस्थान)
+➤ Notes In HINDI
+–  https://superprofile.bio/vp/b-a-program-du-sol-4th-semester-public-institutions-in-india-notes-in-hindi
+➤ Notes In English
+- https://superprofile.bio/vp/b-a-program-du-sol-semester-4-public-institutions-in-india-notes-in-english
+ 
+📄 Education
+in India Policy and Practice- 
+➤  Notes in Hindi - https://superprofile.bio/vp/4th-semester-b-a-programe-education-in-india---policy-and-practice-in-hindi 
+➤  Notes in English - https://superprofile.bio/vp/4th-semester-b-a-prog--education-in-india---policy-and-practice-in-english
+
+use Hindi and english both Language on this website 
+e.g. 
+
+आपका स्वागत है! (Welcome)
+
+यहाँ आपको Class 12 और B.A. के लिए बेहतरीन नोट्स और स्टडी मटेरियल मिलेंगे।
+(Here, you will find the best notes and study material for Class 12 and B.A. students) 
+    
+
+also add these images as a background for my websites 
